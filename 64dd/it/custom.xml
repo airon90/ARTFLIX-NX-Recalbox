@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>È stata una periferica per il Nintendo 64. Si attaccava all'EXTension Port e permetteva al Nintendo 64 di usare dischi magnetici da 64 MB per aumentare la capacità di spazio per i dati.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Nintendo 64 DD</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo, Alps Electric</text>
+		</text>		
+	</view>
+</theme>
